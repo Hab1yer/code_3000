@@ -15,4 +15,10 @@ You are given a model that was built to predict a mystery variable using zip cod
 Your goal is to connect anonymized data back to its source data and check the match rate. To complete this activity, write functions in the "deanonymize" script to (1) link the records in the two datasets and (2) calculate the rate at which you are successful doing so. 
 
 ### Module 08: Sustainability in Computing
-You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
+You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook.
+
+## Personal Ethics Statement
+
+After reading chapter 5 of *Ethical Machines*, I think ethics should show up in the decisions I make when building something. Saying I care about fairness or privacy is a start, but it doesn't mean much unless I can explain what I would actually do to protect people. As a computer science student, I want to build software that people can use without being misled or having their information taken advantage of.
+
+For me, that means collecting only the data a project needs, clearly explaining how it will be used, and checking whether a system's mistakes affect some groups more than others. I would consider hiding a known bias or using someone's data for an unrelated purpose without their understanding unacceptable. The chapter also made me think about the difference between a goal and a tool for reaching it. Having a person review an AI's output only helps if that review actually prevents harm. I want to ask who could be hurt by my work, test for those problems, and take responsibility for fixing them when they appear.
